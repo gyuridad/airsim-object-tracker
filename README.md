@@ -1,3 +1,3 @@
 - 위 코드는 언리얼엔지 환경에서 진행된 코드로서 언리얼환경 세팅에 관련된 내용은 없습니다.
 - 아래의 ppt에 객체 탐지 모델 훈련, 객체 추적, 드론 제어 등에 관한 내용을 ppt에 작성하였습니다.
-- [https://docs.google.com/presentation/d/1Q39InMYgFtxyrHsc5NEVEeno2ZiFi6-e/edit?usp=drive_link&ouid=115561641766066546273&rtpof=true&sd=true ](https://docs.google.com/presentation/d/1Q39InMYgFtxyrHsc5NEVEeno2ZiFi6-e/edit?usp=sharing&ouid=115561641766066546273&rtpof=true&sd=true) 
+- https://docs.google.com/presentation/d/1Q39InMYgFtxyrHsc5NEVEeno2ZiFi6-e/edit?usp=drive_link&ouid=115561641766066546273&rtpof=true&sd=true 
